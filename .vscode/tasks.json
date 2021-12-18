@@ -11,7 +11,7 @@
 				"*.c",
 				"-shared",
 				"-o",
-				"pi-i2device.so"
+				"pi-i2cdevice.so"
 			],
 			"options": {
 				"cwd": "${fileDirname}"
